@@ -1,0 +1,275 @@
+[
+  {
+    "objectID": "hdr.html#parcours-personnel-et-professionnel",
+    "href": "hdr.html#parcours-personnel-et-professionnel",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Parcours personnel et professionnel",
+    "text": "Parcours personnel et professionnel\n\n\nDoctorat en médecine vétérinaire (ENVN, 2001-2006)\n\nThèse d’exercice vétérinaire à l’université de Warwick (GB, 2005) : Risque de mammite clinique en lactation selon la conduite de la période sèche chez la vache laitière\n\nThèse d’université à l’université de Nottingham (GB, 2006-2009)\n\nAn evaluation of milk recording, somatic cell counts and reproductive performance in a large cohort of dairy herds in England and Wales"
+  },
+  {
+    "objectID": "hdr.html#parcours-personnel-et-professionnel-1",
+    "href": "hdr.html#parcours-personnel-et-professionnel-1",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Parcours personnel et professionnel",
+    "text": "Parcours personnel et professionnel\n\n\nPost-doctorat à l’université de Nottingham (GB, 2010-2011)\n\nFacteurs de risque de mammite au premier contrôle laitier de la lactation\n\nPost-doctorat à l’UMR BIOEPAR (Oniris, INRAE, 2011-2012)\n\nCoordination du volet français d’une étude européenne multicentrique sur les facteurs de risque de pancytopénie néonatale bovine\nÉvaluation d’indicateurs et de méthodes pour la détection précoce de maladies vectorielles émergentes\n\nMaître de conférences en zootechnie bovine / épidémiologie à Oniris depuis 2012"
+  },
+  {
+    "objectID": "hdr.html#compétences-développées",
+    "href": "hdr.html#compétences-développées",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Compétences développées",
+    "text": "Compétences développées\n\nMédecine vétérinaire :\n\nÉpidémiologie et médecine de populations\nMaladies infectieuses et de production des bovins\n\nStatistiques :\n\nModèles linéaires (généralisés) mixtes\nInférence bayésienne\nMéthodes de réduction de dimension\nMéthodes de classification non-supervisée\n(Méthodes d’apprentissage automatique)"
+  },
+  {
+    "objectID": "hdr.html#de-quoi-va-t-on-parler",
+    "href": "hdr.html#de-quoi-va-t-on-parler",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "De quoi va-t-on parler ?",
+    "text": "De quoi va-t-on parler ?\n\nElevage bovin laitier :\n\nTroupeaux de vaches pour la production et la vente de lait\nTypiquement 50 à 130 vaches par troupeau\nAnimaux conduits en groupes (veaux, génisses, vaches \\(\\ldots\\))\n\nTroubles de santé avec différentes caractéristiques épidémiologiques\nDes niveaux de bien-être difficiles à quantifier\nLes questions qui se posent et les manières d’y répondre sont différentes selon les caractéristiques des troubles de santé"
+  },
+  {
+    "objectID": "hdr.html#maladies-endémiques-quantifier-pour-maîtriser",
+    "href": "hdr.html#maladies-endémiques-quantifier-pour-maîtriser",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Maladies endémiques : quantifier pour maîtriser",
+    "text": "Maladies endémiques : quantifier pour maîtriser\n\nMaladie endémique : fréquemment présente dans une population, sans variation importante d’incidence au cours du temps\n\nMammites, boiteries, maladies parasitaires \\(\\ldots\\)\n\nEnjeux autour de ces maladies au niveau d’un troupeau :\n\nDiagnostiquer : quantifier la prévalence et décrire la dynamique\nPrévenir : identifier les animaux sains et les causes de maladie\nÉliminer : identifier les malades et les facteurs pronostics des traitements"
+  },
+  {
+    "objectID": "hdr.html#maladies-émergentes-détecter-précocement",
+    "href": "hdr.html#maladies-émergentes-détecter-précocement",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Maladies émergentes : détecter précocement",
+    "text": "Maladies émergentes : détecter précocement\n\nMaladie qui (ré-)apparaît dans un pays ou un territoire dans lequel elle était absente\n\nFièvre catarrhale ovine, infection par le virus de Schmallenberg \\(\\ldots\\)\n\nEnjeux autour de ces maladies :\n\nInfinité de maladies pouvant émerger \\(\\rightarrow\\) impossible de tester pour tout!\nDétecter le plus précocement possible après l’émergence pour limiter la propagation et les conséquences"
+  },
+  {
+    "objectID": "hdr.html#maladie-absente-sécuriser-les-échanges",
+    "href": "hdr.html#maladie-absente-sécuriser-les-échanges",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Maladie absente : sécuriser les échanges",
+    "text": "Maladie absente : sécuriser les échanges\n\nMaladie connue pour laquelle on veut prouver qu’on est indemne\nEnjeux autour de ces maladies :\n\nRassurer les partenaires commerciaux sur le fait qu’il n’y aucun risque associé à l’achat d’animaux\nQuantifier pour chaque unité la probabilité que l’infection est absente"
+  },
+  {
+    "objectID": "hdr.html#bien-être-animal-mesurer-pour-améliorer-et-rassurer",
+    "href": "hdr.html#bien-être-animal-mesurer-pour-améliorer-et-rassurer",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Bien-être animal : mesurer pour améliorer et rassurer",
+    "text": "Bien-être animal : mesurer pour améliorer et rassurer\n\nNotion complexe à définir\n\nHistoriquement, définition basée sur 5 libertés traduite en protocoles de mesure\nPlus récemment, définition Anses : état mental et physique positif lié à la satisfaction des besoins physiologiques et comportementaux de l’animal, ainsi que de ses attentes. Cet état varie en fonction de la perception de la situation par l’animal.\n\nLa complexité de la définition complique la mesure"
+  },
+  {
+    "objectID": "hdr.html#types-de-problèmes-étudiés-et-questions-de-recherche",
+    "href": "hdr.html#types-de-problèmes-étudiés-et-questions-de-recherche",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Types de problèmes étudiés et questions de recherche",
+    "text": "Types de problèmes étudiés et questions de recherche\n\n\n\n\n\n\n\n\n\nType de maladie/entité\nType de question\nCaractéristiques et difficultés méthodologiques\n\n\n\n\nMaladie endémique\nDiagnostic\nTests imparfaits ; données longitudinales\n\n\n\nPrévention : identifier les facteurs de risque\nTests imparfaits ; associations non causales ; données manquantes\n\n\nMaladie émergente\nDétecter précocement\nDétection de phénomènes parfois inconnus ; évènements rares ; fausses alertes ; données : hétérogènes, longitudinales, de grand volume\n\n\nMaladie absente\nProuver l’absence\nQuantifier la probabilité d’un évènement absent ; inférence impossible ou difficile ; tests imparfaits\n\n\nBien-être animal\nQuantifier un phénomène difficile à définir\nMesure d’un phénomène multifactoriel avec des composantes subjectives ; données hétérogènes"
+  },
+  {
+    "objectID": "hdr.html#maladies-émergentes",
+    "href": "hdr.html#maladies-émergentes",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Maladies émergentes",
+    "text": "Maladies émergentes\n\nProbabilité d’émergence de maladies infectieuse accrue en France et en Europe\n\nRéchauffement climatique : changement de répartition géographique de vecteurs\nDéforestation : contacts entre faune sauvage, animaux domestiques et humains\nCommerce international : diffusion des pathogènes et des vecteurs"
+  },
+  {
+    "objectID": "hdr.html#emergences-de-maladies-vectorielles-chez-les-bovins",
+    "href": "hdr.html#emergences-de-maladies-vectorielles-chez-les-bovins",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Emergences de maladies vectorielles chez les bovins",
+    "text": "Emergences de maladies vectorielles chez les bovins\n\nFièvre catarrhale ovine\n\nMaladie virale à transmission vectorielle touchant les ruminants\nSymptômes : fièvre, troubles respiratoires, ptyalisme, œdème de la face, cyanose de la langue\nInitialement présente en Afrique et en Europe du Sud\nÉmergence en Allemagne, Belgique et Pays-Bas en 2006\nÉmergence en France en 2007\n\nInfection par le virus de Schmallenberg\n\nMaladie virale à transmission vectorielle touchant les ruminants\nSymptômes : fièvre, malformations fœtales, baisses de production laitière\nÉmergence en Europe du Nord en 2011\nVirus inconnu avant son émergence"
+  },
+  {
+    "objectID": "hdr.html#la-surveillance-syndromique-pour-la-détection-démergences",
+    "href": "hdr.html#la-surveillance-syndromique-pour-la-détection-démergences",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "La surveillance syndromique pour la détection d’émergences",
+    "text": "La surveillance syndromique pour la détection d’émergences\n\nSurveillance syndromique : collecte, construction et analyse automatisées en temps (quasi-)réel d’indicateurs spécifiques ou non spécifiques pour la détection précoce d’évènements sanitaires inhabituels.\nTravail conduit dans le cadre d’un projet ERA-NET avec partenaires néerlandais et belges.\nObjectif général : évaluer l’intérêt des données de production et de reproduction collectées chez les bovins laitiers pour la détection précoce de maladies à transmission vectorielle émergentes"
+  },
+  {
+    "objectID": "hdr.html#principes-généraux",
+    "href": "hdr.html#principes-généraux",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Principes généraux",
+    "text": "Principes généraux\n\nPrincipes généraux de l’évaluation d’indicateurs pour la surveillance syndromique\n\nIdentification des conséquences biologiques plausibles d’une émergence\nIdentification des sources de données disponibles pour la détection\nConstruction d’indicateurs à partir de ces données\nDéveloppement de méthodes de détection d’anomalies spatio-temporelles\nÉvaluation des performances des indicateurs sur données réelles ou simulées"
+  },
+  {
+    "objectID": "hdr.html#quelles-mesures-de-performance",
+    "href": "hdr.html#quelles-mesures-de-performance",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Quelles mesures de performance ?",
+    "text": "Quelles mesures de performance ?\n\nQuels risques d’erreur ?\nNe pas détecter une maladie alors qu’elle a émergé \\(\\rightarrow\\) faux négatif\n\nFonction de la sensibilité : \\(Se = p(T^+|D^+)\\)\n\nDétecter un signal trop longtemps après l’émergence, quand les conséquences sont déjà importantes\n\nPrécocité : temps écoulé entre l’émergence et sa détection\n\nDétecter une anomalie alors qu’aucune maladie n’a émergé \\(\\rightarrow\\) faux positif\n\nFonction de la spécificité : \\(Sp = p(T^-|D^-)\\)\n\nFausses alertes : importance de la valeur prédictive positive : \\(VPP = p(D^+|T^+) = \\frac{Se \\pi}{Se \\pi + (1 - Sp) (1 - \\pi)}\\)"
+  },
+  {
+    "objectID": "hdr.html#données-de-production-et-de-reproduction",
+    "href": "hdr.html#données-de-production-et-de-reproduction",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Données de production et de reproduction",
+    "text": "Données de production et de reproduction\n\nIdentification des bovins :\n\nChaque bovin français a un numéro national à 10 chiffres\nPermet de croiser différentes bases de données\nEnregistrement des naissances, morts et mouvements entre exploitations\n\nLe contrôle laitier :\n\nMesure mensuelle de quantité/composition du lait produit sur 24h\nChaque mois, pour chaque vache en lactation d’un troupeau\nPayant et volontaire mais très répandu\n\nDonnées d’insémination artificielle :\n\nUtilisation de semence congelée pour la reproduction des vaches\nEnregistrement des inséminations \\(\\rightarrow\\) suivi précis de la reproduction de chaque vache"
+  },
+  {
+    "objectID": "hdr.html#production-laitière-pour-la-détection-des-émergences-hypothèses",
+    "href": "hdr.html#production-laitière-pour-la-détection-des-émergences-hypothèses",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Production laitière pour la détection des émergences : hypothèses",
+    "text": "Production laitière pour la détection des émergences : hypothèses\n\nHypothèses :\n\nL’émergence d’une maladie à transmission vectorielle cause des baisses de production laitière chez les bovins atteints\nCes baisses de production sont localisées dans l’espace et dans le temps et suivent la progression de l’infection\nDe telles baisses de production sont détectables avec les données du contrôle laitier\nLes données collectées lors de l’émergence de la FCO en France en 2007 peuvent être utilisées pour l’évaluation d’indicateurs"
+  },
+  {
+    "objectID": "hdr.html#production-laitière-pour-la-détection-des-émergences-démarche",
+    "href": "hdr.html#production-laitière-pour-la-détection-des-émergences-démarche",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Production laitière pour la détection des émergences : démarche",
+    "text": "Production laitière pour la détection des émergences : démarche\n\nIndicateur : calcul de productions laitières moyennes par troupeau par date de contrôle à partir des productions laitières quotidiennes à l’échelle de la vache\nModèle de prédiction : Construction d’un modèle de prédiction des productions laitières attendues sur une période historique, avant l’émergence\nDifférences observé-attendu : calcul des différences entre productions laitières observées et prédites par le modèle, sur la période de détection\nDétection d’agrégats spatio-temporels : utilisation d’une statistique de balayage\nChoix d’un seuil pour la détection d’anomalies : à partir des foyers de FCO notifiés choix d’un seuil permettant un bon compromis entre précocité de détection et nombre de fausses-alarmes."
+  },
+  {
+    "objectID": "hdr.html#modèle-de-prédiction-de-la-production-laitière-1",
+    "href": "hdr.html#modèle-de-prédiction-de-la-production-laitière-1",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Modèle de prédiction de la production laitière (1)",
+    "text": "Modèle de prédiction de la production laitière (1)\n\nModèles linéaires (généralisés) mixtes très utilisés en épidémiologie animale\n\nExemple : modèle linéaire avec ordonnée à l’origine aléatoire … \\[Y_{ij} =  \\beta_0 + \\beta_1 x_{ij}^1 + \\ldots + \\nu_j + \\varepsilon_{ij}\\] \\[\\nu_{ij} \\sim \\mathcal{N}(0, \\sigma{j}^2)\\] \\[\\varepsilon_{ij} \\sim \\mathcal{N}(0, \\sigma{ij}^2)\\]\n\\(Y_{ij}\\) : production laitière pour le troupeau \\(i\\) au temps \\(j\\) ; \\(x_{ij}^k\\) : valeur de la covariable \\(k\\) pour le troupeau \\(i\\) au temps \\(j\\) ; \\(\\beta_k\\) : coefficient pour la covariable \\(k\\) ; \\(\\nu_j\\) effet aléatoire troupeau ; \\(\\varepsilon_{ij}\\) erreur résiduelle.\n\nPermettent de prendre en compte la structuration des données en plusieurs niveaux"
+  },
+  {
+    "objectID": "hdr.html#modèle-de-prédiction-de-la-production-laitière-2",
+    "href": "hdr.html#modèle-de-prédiction-de-la-production-laitière-2",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Modèle de prédiction de la production laitière (2)",
+    "text": "Modèle de prédiction de la production laitière (2)\n\n\n\nRégression par morceaux\nDécoupage de l’année en 8 périodes\nCovariables : jour de l’année au moment du contrôle\nEffet aléatoire élevage sur chaque coefficient\n\n\n\n\n\n\n\n\n\n\n\n\\[Y_{ij} = \\sum_{k=1}^{8}I_k \\left[ (\\beta_k + \\nu_k^j) \\frac{d - \\tau_k}{\\tau_{k + 1} - \\tau_k} + (\\beta_{k+1} + \\nu_{k+1}^j) (1-\\frac{d - \\tau_k}{\\tau_{k + 1} - \\tau_k}) \\right] + \\varepsilon_{ij}\\] \\[\\nu_{k} \\sim MVN(0, \\Sigma_j) \\] \\[\\varepsilon_{ij} \\sim \\mathcal{N}(0, \\sigma{ij}^2)\\]\n\n\n\nMadouasse et al. 2014"
+  },
+  {
+    "objectID": "hdr.html#différences-observé-attendu",
+    "href": "hdr.html#différences-observé-attendu",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Différences observé-attendu",
+    "text": "Différences observé-attendu\n\n\nÉmergence de la FCO en juillet 2007 \\(\\rightarrow\\) pas de baisse notable de la production laitière\n\n\n\n\n\n\n\n\nMadouasse et al. 2014"
+  },
+  {
+    "objectID": "hdr.html#agrégats-spatio-temporels",
+    "href": "hdr.html#agrégats-spatio-temporels",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Agrégats spatio-temporels",
+    "text": "Agrégats spatio-temporels\n\n\n\nStatistique de balayage (SaTScan)\nApplication sur différences entre productions observées et prédites agrégées aux niveaux de la commune et de la semaine\nEn résumé : productions inférieures à l’attendu concomitantes de l’émergence mais beaucoup de fausses alarmes.\n\n\n\n\n\n\n\n\n\n\nMadouasse et al. 2014"
+  },
+  {
+    "objectID": "hdr.html#encadrement-et-publications-associés",
+    "href": "hdr.html#encadrement-et-publications-associés",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Encadrement et publications associés",
+    "text": "Encadrement et publications associés\n\nEncadrement :\n\nThomas Lesuffleur, Master 2, 2012\n\nPublications majeures :\n\nMadouasse et al., 2013. Evaluation of a Continuous Indicator for Syndromic Surveillance through Simulation. Application to Vector Borne Disease Emergence Detection in Cattle Using Milk Yield. PLOS ONE 8, e73726.\nMadouasse et al., 2014. Use of monthly collected milk yields for the detection of the emergence of the 2007 French BTV epizootic. Preventive Veterinary Medicine 113, 484–491.\nMarceau et al., 2014. Can routinely recorded reproductive events be used as indicators of disease emergence in dairy cattle? An evaluation of 5 indicators during the emergence of bluetongue virus in France in 2007 and 2008. Journal of Dairy Science 97, 6135–6150."
+  },
+  {
+    "objectID": "hdr.html#perspectives",
+    "href": "hdr.html#perspectives",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Perspectives",
+    "text": "Perspectives\n\nIntérêt sans doute limité de tester de nouveaux indicateurs/sources de données chez les bovins\nApproche envisagée :\n\nSimulation de scénarios d’émergence probables et de leurs conséquences pour l’identification de sources de données mobilisables et de méthodes de détection\nA construire"
+  },
+  {
+    "objectID": "hdr.html#quantifier-la-probabilité-dabsence-dune-maladie",
+    "href": "hdr.html#quantifier-la-probabilité-dabsence-dune-maladie",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Quantifier la probabilité d’absence d’une maladie",
+    "text": "Quantifier la probabilité d’absence d’une maladie\n\nProblème posé dans le projet STOC free\nEnjeux :\n\nProtéger les pays/troupeaux indemnes de l’introduction d’un agent infectieux via l’introduction d’animaux infectés\n\nParticularité du problème :\n\nSi la maladie est détectée chez &gt; 0 animal / unité, elle est présente ; sinon quelle probabilité que la maladie soit présente mais n’ait pas été détectée ?\nImpossibilité d’évaluer la probabilité que quelque chose n’existe pas \\(\\rightarrow\\) pas réfutable1\nNécessité de poser la question en termes de Si l’infection était présente à la prévalence x, quelle serait la probabilité que le système de surveillance la détecte ?\n\n\nQuestion similaire à celle de l’existence de cygnes noirs ou de théières célestes"
+  },
+  {
+    "objectID": "hdr.html#quelles-mesures-de-performance-1",
+    "href": "hdr.html#quelles-mesures-de-performance-1",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Quelles mesures de performance ?",
+    "text": "Quelles mesures de performance ?\n\nHypothèse habituelle de spécificité parfaite \\(\\Rightarrow Sp = p(T^-|D^-)=1\\)\n\nSi test positif on reteste jusqu’à confirmation de vrai positif \\(\\rightarrow\\) maladie présente, au risque d’abaisser la sensibilité.\n\nQuels risques d’erreur ?\nNe pas détecter une maladie alors qu’elle est présente \\(\\rightarrow\\) faux négatif\n\nSensibilité du système de surveillance : \\(Se = p(T^+|D^+)\\)\n\nImportance de la valeur prédictive négative :\n\nProbabilité que la maladie soit présente bien qu’on ne l’ait pas trouvée\n\\(VPN = p(D^-|T^-) = \\frac{Sp (1 - \\pi)}{Sp (1 - \\pi) + (1 - Se) \\pi}\\)\nSi \\(Sp = 1\\), \\(VPN = \\frac{1 - \\pi}{1 - Se \\pi}\\)"
+  },
+  {
+    "objectID": "hdr.html#evolution-des-méthodes-pour-quantifier-la-probabilité-dabsence-dune-maladie",
+    "href": "hdr.html#evolution-des-méthodes-pour-quantifier-la-probabilité-dabsence-dune-maladie",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Evolution des méthodes pour quantifier la probabilité d’absence d’une maladie",
+    "text": "Evolution des méthodes pour quantifier la probabilité d’absence d’une maladie\n\nInitialement : taille d’échantillon pour obtenir un certain niveau de confiance dans l’absence d’infection :\n\nSi présente à prévalence faible (design prevalence) avec hypothèse de population homogène et grande (Cannon et Roe, 1982)\nIncorporation de l’imperfection des tests (Cameron et Baldock, 1988a)\nIncorporation de structure des populations testées (Cameron et Baldock, 1988b)\n\nEvolution vers la détermination de la sensibilité des systèmes de surveillance et de la probabilité d’absence d’infection si elle n’a pas été détectée\n\nMéthode scenario tree (Martin et al. 2007)"
+  },
+  {
+    "objectID": "hdr.html#la-méthode-scenario-tree",
+    "href": "hdr.html#la-méthode-scenario-tree",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "La méthode scenario tree",
+    "text": "La méthode scenario tree\n\n\n\nMéthode de référence\nSimulations stochastiques :\n\nStructure de la population, stratifiée selon hypothèses sur facteurs de risque d’infection\nProcédures de tests\nHypothèses sur caractéristiques des tests\ndesign prevalence\n\nPermet d’estimer la probabilité d’avoir obtenu des résultats de tests négatifs uniquement, si les hypothèses du modèles étaient vraies"
+  },
+  {
+    "objectID": "hdr.html#le-projet-stoc-free",
+    "href": "hdr.html#le-projet-stoc-free",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Le projet STOC free",
+    "text": "Le projet STOC free\n\nObjectif du projet :\n\nDévelopper un cadre d’estimation de la probabilité d’être indemne d’infection permettant de prendre en compte la diversité des programmes de surveillance.\n\nApplication à l’infection par le virus de la diarrhée virale bovine (BVD) en élevage bovin laitier.\nDéveloppement d’un modèle de Markov caché de prédiction du statut élevage à partir de données sérologiques de lait de tank\nApplication du modèle dans 3 autres pays européens"
+  },
+  {
+    "objectID": "hdr.html#modèle-de-markov-caché",
+    "href": "hdr.html#modèle-de-markov-caché",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Modèle de Markov caché",
+    "text": "Modèle de Markov caché\n\nDescriptionÉquationsSchémas\n\n\n\nModèle de Markov caché \\(\\rightarrow\\) Hidden Markov Modèle (HMM) en anglais\nHypothèses du modèle sur la variable d’intérêt (infection / absence d’infection) :\n\nDiscrète : \\(k\\) états\nLatente : état vrai mesuré de façon imparfaite \\(\\rightarrow\\) tests avec sensibilité et spécificité &lt; 1\nTemps discret avec dynamique Markovienne : état latent au temps \\(t\\) ne dépend que de l’état au temps \\(t-1\\).\n\nPas de temps mensuel\nPrédiction de probabilité pour un élevage d’être positif (infecté/séropositif) au dernier pas de temps\n\n\n\n\\[S_1 \\sim Bernoulli(\\pi_1)\\] \\[S_t \\sim Bernoulli(\\pi_t) \\hspace{.25cm} \\forall t &gt; 1\\] \\[\n\\pi_t = \\begin{cases}\n    \\tau_1 & \\text{si } S_{t-1}=0 \\\\\n    \\tau_2 & \\text{si } S_{t-1}=1\n\\end{cases}\n\\]\nSi facteurs de risques de nouvelle infection \\(\\rightarrow\\) \\(ln(\\frac{\\tau_1}{1-\\tau_1})=XB\\)\n\\[T_t \\sim Bernoulli(p(T_t))\\]\n\\[\np(T_t) = \\begin{cases}\n        1 - Sp & \\text{si } S_t = 0 \\\\\n        Se     & \\text{si } S_t = 1\n\\end{cases}\n\\]"
+  },
+  {
+    "objectID": "hdr.html#application-du-modèle-à-la-bvd-en-loire-atlantique-1",
+    "href": "hdr.html#application-du-modèle-à-la-bvd-en-loire-atlantique-1",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Application du modèle à la BVD en Loire-Atlantique (1)",
+    "text": "Application du modèle à la BVD en Loire-Atlantique (1)\n\n\nÉvaluation du modèle :\n\nEstimation des paramètres avec JAGS ou Stan\nAvec ou sans facteur de risque\nAvec différents a priori sur les valeurs informatives des tests"
+  },
+  {
+    "objectID": "hdr.html#application-du-modèle-à-la-bvd-en-loire-atlantique-2",
+    "href": "hdr.html#application-du-modèle-à-la-bvd-en-loire-atlantique-2",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Application du modèle à la BVD en Loire-Atlantique (2)",
+    "text": "Application du modèle à la BVD en Loire-Atlantique (2)\n\n\nAjout d’un facteur de risque :\n\nPermet en principe une détection plus précoce\nIci, probabilité de séroconversion augmente avec le nombre de bovins introduits"
+  },
+  {
+    "objectID": "hdr.html#encadrements-et-publications-associées",
+    "href": "hdr.html#encadrements-et-publications-associées",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Encadrements et publications associées",
+    "text": "Encadrements et publications associées\n\nEncadrements :\n\nMathilde Mercat, Ph.D. 2018 - 2022\n\nPublications majeures :\n\nMadouasse et al., 2022. A modelling framework for the prediction of the herd-level probability of infection from longitudinal data. Peer Community Journal 2.\nMercat et al, 2022. Capacity of a Bayesian model to detect infected herds using disease dynamics and risk factor information from surveillance programmes: A simulation study. Preventive Veterinary Medicine 200, 105582.\nvan Roon et al., 2022. Output-based assessment of herd-level freedom from infection in endemic situations: Application of a Bayesian Hidden Markov model. Preventive Veterinary Medicine 204, 105662."
+  },
+  {
+    "objectID": "hdr.html#les-boiteries-des-bovins-comme-modèle",
+    "href": "hdr.html#les-boiteries-des-bovins-comme-modèle",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Les boiteries des bovins comme modèle",
+    "text": "Les boiteries des bovins comme modèle\n\n\n\n \n\n\n\n\n \n\n\n\n\nBoiteries : altération de la démarche dues à des lésions podales le plus souvent"
+  },
+  {
+    "objectID": "hdr.html#les-boiteries-des-bovins-comme-modèle-1",
+    "href": "hdr.html#les-boiteries-des-bovins-comme-modèle-1",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Les boiteries des bovins comme modèle",
+    "text": "Les boiteries des bovins comme modèle\n\nImpact sur les 5 libertés utilisées pour la définition historique du bien-être\n\nAbsence de douleur, de lésions et de maladie : maladie définie par altération de la démarche due à douleur\nAbsence de faim, de soif et de malnutrition : altération de la capacité à se déplacer pour aller se nourrir\nAbsence de peur et de détresse : impact sur les interactions sociales, notamment comportements agonistiques\nLiberté d’expression d’un comportement normal de l’espèce : difficultés à se déplacer, se lever, se coucher, exprimer les comportements de chaleurs\nAbsence de stress physique et/ou thermique : confort de couchage comme facteur de risque de boiterie\n\nPrévalence des boiteries d’environ 20% (Thomsen et al., 2023)\n\nSous-détection par les éleveurs (Cutler et al., 2017)"
+  },
+  {
+    "objectID": "hdr.html#capteurs-pour-létude-du-comportements-des-bovins",
+    "href": "hdr.html#capteurs-pour-létude-du-comportements-des-bovins",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Capteurs pour l’étude du comportements des bovins",
+    "text": "Capteurs pour l’étude du comportements des bovins\n\nCapteurs de plus en plus utilisés en élevage \\(\\rightarrow\\) élevage de précision\nProjet Vagabond :\n\nAccéléromètres et GPS pour l’étude du comportement des bovins au pâturage\nThèse de Lucile Riaboff, co-encadrement ESEO Angers, ESA Angers, BIOEPAR. Financement Terrena et Régions Pays de la Loire.\n\nAccéléromètres 3D :\n\nMesure de l’accélération instantanée sur 3 dimensions\nPlacés dans colliers \\(\\rightarrow\\) mesure des profils de mouvement spécifiques de certains comportements\nEtape de prédiction des comportements à partir du signal brut \\(\\rightarrow\\) développements méthodologiques\n\nGPS \\(\\rightarrow\\) géolocalisation"
+  },
+  {
+    "objectID": "hdr.html#vue-densemble",
+    "href": "hdr.html#vue-densemble",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Vue d’ensemble",
+    "text": "Vue d’ensemble\n\nFigure par Lucile Riaboff, tirée de Riaboff et al., 2022"
+  },
+  {
+    "objectID": "hdr.html#utilisation-de-capteurs-pour-létude-et-la-détection-des-boiteries-au-pâturage---riaboff-et-al.-2021",
+    "href": "hdr.html#utilisation-de-capteurs-pour-létude-et-la-détection-des-boiteries-au-pâturage---riaboff-et-al.-2021",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Utilisation de capteurs pour l’étude et la détection des boiteries au pâturage - Riaboff et al., 2021",
+    "text": "Utilisation de capteurs pour l’étude et la détection des boiteries au pâturage - Riaboff et al., 2021\n\nEtudeDétectionImpact\n\n\n\nChez 68 vaches dans 3 troupeaux pâturants\nPrédiction des comportements à partir de données accélérométriques et géolocalisation à partir de GPS\nNotation visuelle des boiteries : notes de 0 à 3\nÉvaluation des variables de comportement et de distances parcourues qui discriminent les différents scores de boiteries\n\nPour évaluation de l’impact et détection des boiteries à partir des données mesurées par les capteurs\nUtilisation de la méthode Partial Least Squares - Discriminant Analysis (PLS-DA)\n\n\n\n\n\n\nLes variables incluses ne permettent pas une discrimination suffisante pour la détection des boiteries\n\n\n\n\n\n\n\n\n\n\n\nBoiteries : \\(\\searrow\\) temps de pâturage, \\(\\nearrow\\) temps immobile, \\(\\searrow\\) distances parcourues"
+  },
+  {
+    "objectID": "hdr.html#encadrements-et-publication-associée",
+    "href": "hdr.html#encadrements-et-publication-associée",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Encadrements et publication associée",
+    "text": "Encadrements et publication associée\n\nEncadrements :\n\nLucile Riaboff : Ph.D., 2018 - 2021 ; Post-doctorat, 2021\nCharles-Elie Petiot : Thèse de doctorat vétérinaire, 2018\n\nPublication majeure :\n\nRiaboff et al., 2021. Identification of discriminating behavioural and movement variables in lameness scores of dairy cows at pasture from accelerometer and GPS sensors using a Partial Least Squares Discriminant Analysis. Preventive Veterinary Medicine 193, 105383."
+  },
+  {
+    "objectID": "hdr.html#perspectives-1",
+    "href": "hdr.html#perspectives-1",
+    "title": "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l’évaluation du bien-être chez les bovins",
+    "section": "Perspectives",
+    "text": "Perspectives\n\nProjet WAIT4 : Welfare: Artificial Intelligence and new Technologies for Tracking key indicator Traits in animals facing challenges of the agro-ecological Transition\n\nAnimation du WP3 : Determining the impacts of agroecological transition on animal welfare\n\n\n\n\n\nThèse WAIT4 / PACE-COW :\n\nCaractérisation du lever et du coucher pour la détection et l’étude des boiteries\nImpact des boiteries sur les interactions sociales\nCollaboration avec équipe LINK, AgroParisTech, INRAE (MIA)"
+  }
+]

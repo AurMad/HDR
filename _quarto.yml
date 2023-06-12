@@ -1,0 +1,5 @@
+project:
+  title: "hdr"
+  type: website
+  output-dir: docs
+
