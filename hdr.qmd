@@ -1,12 +1,11 @@
 ---
 title: "Approches épidémiologiques et statistiques pour la détection des troubles de santé et l'évaluation du bien-être chez les bovins"
+subtitle: "Habilitation à diriger des recherches"
 author: "Aurélien Madouasse"
+institute: "UMR BIOEPAR, Oniris, INRAE"
 date: 2023-06-15
 date-format: long
 lang: fr
-project:
-  type: website
-  output-dir: docs
 format: 
   revealjs:
     incremental: true
@@ -17,11 +16,25 @@ format:
 editor: visual
 ---
 
-# Introduction
+## 
+
+::: nonincremental
+-   **Jury**
+
+    -   **Cécile Chevrier**, Directrice de recherche, INSERM Université Rennes 1
+    -   **Fabien Corbière**, Professeur, École Nationale Vétérinaire de Toulouse
+    -   **Benoît Durand**, Directeur de recherche, ANSES de Maisons-Alfort
+    -   **Marie-Pierre Etienne**, Maîtresse de conférences HDR, Institut Agro Rennes-Angers
+    -   **Anne Philippe**, Professeure, Nantes Université
+
+-   **Lien vers la présentation :** <https://aurmad.github.io/HDR/hdr.html>
+
+-   **Lien vers le document écrit :** <https://hal.science/tel-04125958>
+:::
+
+# Introduction {background="#43464B" background-image="figs/normandes.jpg" style="margin-top: 200px; font-size: 2em; text-align: center;"}
 
 ## Parcours personnel et professionnel
-
-<!-- -   BTS productions animales (Lycée La Touche, 1998-2000) -->
 
 -   Doctorat en médecine vétérinaire (ENVN, 2001-2006)
     -   Thèse d'exercice vétérinaire à l'université de Warwick (GB, 2005) : *Risque de mammite clinique en lactation selon la conduite de la période sèche chez la vache laitière*
@@ -100,7 +113,7 @@ editor: visual
 
 ::: {style="font-size: 85%;"}
 | Type de maladie/entité | Type de question                               | Caractéristiques et difficultés méthodologiques                                                                                        |
-|------------------|------------------|-------------------------------------|
+|------------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 | Maladie endémique      | Diagnostic                                     | Tests imparfaits ; données longitudinales                                                                                              |
 |                        | Prévention : identifier les facteurs de risque | Tests imparfaits ; associations non causales ; données manquantes                                                                      |
 | Maladie émergente      | Détecter précocement                           | Détection de phénomènes parfois inconnus ; évènements rares ; fausses alertes ; données : hétérogènes, longitudinales, de grand volume |
@@ -108,7 +121,7 @@ editor: visual
 | Bien-être animal       | Quantifier un phénomène difficile à définir    | Mesure d'un phénomène multifactoriel avec des composantes subjectives ; données hétérogènes                                            |
 :::
 
-# Surveillance syndromique
+# Surveillance syndromique {background="#43464B" background-image="figs/normandes.jpg" style="margin-top: 200px; font-size: 2em; text-align: center;"}
 
 ## Maladies émergentes
 
@@ -268,7 +281,7 @@ $$Y_{ij} = \sum_{k=1}^{8}I_k \left[ (\beta_k + \nu_k^j) \frac{d - \tau_k}{\tau_{
     -   Simulation de scénarios d'émergence probables et de leurs conséquences pour l'identification de sources de données mobilisables et de méthodes de détection
     -   A construire
 
-# Un modèle de Markov caché pour estimer la probabilité de présence d'une maladie
+# Un modèle de Markov caché pour estimer la probabilité d'absence d'une maladie {background="#43464B" background-image="figs/normandes.jpg" style="margin-top: 200px; font-size: 1.25em; text-align: center;"}
 
 ## Quantifier la probabilité d'absence d'une maladie
 
@@ -397,7 +410,7 @@ $$
     -   [Mercat et al, 2022.](https://doi.org/10.1016/j.prevetmed.2022.105582) Capacity of a Bayesian model to detect infected herds using disease dynamics and risk factor information from surveillance programmes: A simulation study. Preventive Veterinary Medicine 200, 105582.
     -   [van Roon et al., 2022.](https://doi.org/10.1016/j.prevetmed.2022.105662) Output-based assessment of herd-level freedom from infection in endemic situations: Application of a Bayesian Hidden Markov model. Preventive Veterinary Medicine 204, 105662.
 
-# Capteurs et méthodes pour l'évaluation du bien-être chez les bovins
+# Capteurs et méthodes pour l'évaluation du bien-être chez les bovins {background="#43464B" background-image="figs/normandes.jpg" style="margin-top: 200px; font-size: 1.25em; text-align: center;"}
 
 ## Les boiteries des bovins comme modèle
 
@@ -500,4 +513,4 @@ Figure par Lucile Riaboff, tirée de [Riaboff et al., 2022](https://www.scienced
 :::
 :::
 
-# Merci pour votre attention !
+# Merci pour votre attention ! {background="#43464B" background-image="figs/normandes.jpg" style="margin-top: 200px; font-size: 1.5em; text-align: center;"}
