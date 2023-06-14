@@ -8,7 +8,7 @@ date-format: long
 lang: fr
 format: 
   revealjs:
-    incremental: true
+    incremental: false
     slide-number: c/t
     show-slide-number: all
     theme: [simple, style.scss]
@@ -38,19 +38,18 @@ editor: visual
 
 -   Doctorat en médecine vétérinaire (ENVN, 2001-2006)
     -   Thèse d'exercice vétérinaire à l'université de Warwick (GB, 2005) : *Risque de mammite clinique en lactation selon la conduite de la période sèche chez la vache laitière*
--   Thèse d'université à l'université de Nottingham (GB, 2006-2009)
+-   [Thèse d'université](https://eprints.nottingham.ac.uk/11203/) à l'université de Nottingham (GB, 2006-2009)
     -   *An evaluation of milk recording, somatic cell counts and reproductive performance in a large cohort of dairy herds in England and Wales*
 
 ## Parcours personnel et professionnel
-
-<!-- -   BTS productions animales (Lycée La Touche, 1998-2000) -->
 
 -   Post-doctorat à l'université de Nottingham (GB, 2010-2011)
     -   Facteurs de risque de mammite au premier contrôle laitier de la lactation
 -   Post-doctorat à l'UMR BIOEPAR (Oniris, INRAE, 2011-2012)
     -   Coordination du volet français d'une étude européenne multicentrique sur les facteurs de risque de pancytopénie néonatale bovine
     -   Évaluation d'indicateurs et de méthodes pour la détection précoce de maladies vectorielles émergentes
--   Maître de conférences en zootechnie bovine / épidémiologie à Oniris depuis 2012
+-   Maître de conférences en zootechnie bovine / épidémiologie à Oniris depuis 2012.
+    - Affiliation à l'UMR BIOEPAR pour activités de recherche.
 
 ## Compétences développées
 
@@ -74,51 +73,42 @@ editor: visual
 
 -   Troubles de santé avec différentes caractéristiques épidémiologiques
 
--   Des niveaux de bien-être difficiles à quantifier
+-   Evaluation du bien-être animal
 
--   Les questions qui se posent et les manières d'y répondre sont différentes selon les caractéristiques des troubles de santé
+-   Les questions qui se posent et les manières d'y répondre sont différentes selon les caractéristiques du phénomène d'intérêt
 
-## Maladies endémiques : quantifier pour maîtriser
+## Des maladies avec différentes caractéristiques épidémiologiques
 
--   **Maladie endémique :** fréquemment présente dans une population, sans variation importante d'incidence au cours du temps
-    -   Mammites, boiteries, maladies parasitaires $\ldots$
--   Enjeux autour de ces maladies au niveau d'un troupeau :
-    -   **Diagnostiquer :** quantifier la prévalence et décrire la dynamique
-    -   **Prévenir :** identifier les animaux sains et les causes de maladie
-    -   **Éliminer :** identifier les malades et les facteurs pronostics des traitements
+-   **Maladie endémique**
+    -   fréquemment présente dans une population, sans variation importante d'incidence au cours du temps
+    -   enjeux : quantifier la prévalence et la dynamique pour prévenir et guérir
+-   **Maladie émergente**
+    -   (ré-)apparaît dans un pays ou un territoire dans lequel elle était absente
+    -   enjeux : détecter précocement pour limiter la propagation et les conséquences
+-   **Maladie absente**
+    -   maladie connue pour laquelle on veut prouver qu'on est indemne
+    -   enjeux : rassurer les partenaires commerciaux sur le fait qu'il n'y aucun risque associé à l'achat d'animaux
 
-## Maladies émergentes : détecter précocement
-
--   Maladie qui (ré-)apparaît dans un pays ou un territoire dans lequel elle était absente
-    -   Fièvre catarrhale ovine, infection par le virus de Schmallenberg $\ldots$
--   Enjeux autour de ces maladies :
-    -   Infinité de maladies pouvant émerger $\rightarrow$ impossible de tester pour tout!
-    -   **Détecter** le plus **précocement** possible après l'émergence pour limiter la propagation et les conséquences
-
-## Maladie absente : sécuriser les échanges
-
--   Maladie connue pour laquelle on veut prouver qu'on est indemne
--   Enjeux autour de ces maladies :
-    -   Rassurer les partenaires commerciaux sur le fait qu'il n'y aucun risque associé à l'achat d'animaux
-    -   Quantifier pour chaque unité la probabilité que l'infection est absente
-
-## Bien-être animal : mesurer pour améliorer et rassurer
+## Bien-être animal
 
 -   Notion complexe à définir
-    -   Historiquement, définition basée sur 5 libertés traduite en protocoles de mesure
-    -   Plus récemment, définition Anses : *état mental et physique positif lié à la satisfaction des besoins physiologiques et comportementaux de l'animal, ainsi que de ses attentes. Cet état varie en fonction de la perception de la situation par l'animal.*
--   La complexité de la définition complique la mesure
 
-## Types de problèmes étudiés et questions de recherche
+    -   pas de *gold standard*
+    -   multifactorielle
+
+-   Préoccupation majeure des filières et des consommateurs
+
+-   Enjeux : mesurer pour améliorer et rassurer
+
+## Plan de la présentation
 
 ::: {style="font-size: 85%;"}
-| Type de maladie/entité | Type de question                               | Caractéristiques et difficultés méthodologiques                                                                                        |
-|------------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| Maladie endémique      | Diagnostic                                     | Tests imparfaits ; données longitudinales                                                                                              |
-|                        | Prévention : identifier les facteurs de risque | Tests imparfaits ; associations non causales ; données manquantes                                                                      |
-| Maladie émergente      | Détecter précocement                           | Détection de phénomènes parfois inconnus ; évènements rares ; fausses alertes ; données : hétérogènes, longitudinales, de grand volume |
-| Maladie absente        | Prouver l'absence                              | Quantifier la probabilité d'un évènement absent ; inférence impossible ou difficile ; tests imparfaits                                 |
-| Bien-être animal       | Quantifier un phénomène difficile à définir    | Mesure d'un phénomène multifactoriel avec des composantes subjectives ; données hétérogènes                                            |
+| Type de maladie/entité | Type de question             | Caractéristiques et difficultés méthodologiques                                                                                        | Partie de l'exposé                                      |
+|-------------|-------------|---------------------------------|-------------|
+| Maladie émergente      | Détecter précocement         | Détection de phénomènes parfois inconnus ; évènements rares ; fausses alertes ; données : hétérogènes, longitudinales, de grand volume | **Surveillance syndromique**                            |
+| Maladie absente        | Prouver l'absence            | Quantifier la probabilité d'un évènement absent ; inférence impossible ou difficile ; tests imparfaits                                 | **Modèle de Markov caché**                              |
+| Bien-être animal       | Evaluer l'impact de maladies | Phénomène multifactoriel ; prédiction de comportements à partir de capteurs                                                            | **Capteurs et méthodes pour l'évaluation du bien-être** |
+|                        |                              |                                                                                                                                        |                                                         |
 :::
 
 # Surveillance syndromique {background="#43464B" background-image="figs/normandes.jpg" style="margin-top: 200px; font-size: 2em; text-align: center;"}
@@ -130,19 +120,14 @@ editor: visual
     -   Déforestation : contacts entre faune sauvage, animaux domestiques et humains
     -   Commerce international : diffusion des pathogènes et des vecteurs
 
-## Emergences de maladies vectorielles chez les bovins
+## La fièvre catarrhale ovine (FCO)
 
--   Fièvre catarrhale ovine
-    -   Maladie virale à transmission vectorielle touchant les ruminants
-    -   Symptômes : fièvre, troubles respiratoires, ptyalisme, œdème de la face, cyanose de la langue
-    -   Initialement présente en Afrique et en Europe du Sud
-    -   Émergence en Allemagne, Belgique et Pays-Bas en 2006
-    -   Émergence en France en 2007
--   Infection par le virus de Schmallenberg
-    -   Maladie virale à transmission vectorielle touchant les ruminants
-    -   Symptômes : fièvre, malformations fœtales, baisses de production laitière
-    -   Émergence en Europe du Nord en 2011
-    -   Virus inconnu avant son émergence
+-   Maladie virale à transmission vectorielle touchant les ruminants
+-   Symptômes : fièvre, troubles respiratoires, ptyalisme, œdème de la face, cyanose de la langue
+-   Initialement présente en Afrique et en Europe du sud
+-   Émergences :
+    - Allemagne, Belgique et Pays-Bas en 2006
+    - France en 2007
 
 ## La surveillance syndromique pour la détection d'émergences
 
@@ -180,9 +165,6 @@ editor: visual
     -   Mesure mensuelle de quantité/composition du lait produit sur 24h
     -   Chaque mois, pour chaque vache en lactation d'un troupeau
     -   Payant et volontaire mais très répandu
--   Données d'insémination artificielle :
-    -   Utilisation de semence congelée pour la reproduction des vaches
-    -   Enregistrement des inséminations $\rightarrow$ suivi précis de la reproduction de chaque vache
 
 ## Production laitière pour la détection des émergences : hypothèses
 
@@ -307,33 +289,6 @@ $$Y_{ij} = \sum_{k=1}^{8}I_k \left[ (\beta_k + \nu_k^j) \frac{d - \tau_k}{\tau_{
     -   $VPN = p(D^-|T^-) = \frac{Sp (1 - \pi)}{Sp (1 - \pi) + (1 - Se) \pi}$
     -   Si $Sp = 1$, $VPN = \frac{1 - \pi}{1 - Se \pi}$
 
-## Evolution des méthodes pour quantifier la probabilité d'absence d'une maladie
-
--   Initialement : taille d'échantillon pour obtenir un certain niveau de confiance dans l'absence d'infection :
-    -   Si présente à prévalence faible (*design prevalence*) avec hypothèse de population homogène et grande ([Cannon et Roe, 1982](https://catalogue.nla.gov.au/Record/447109))
-    -   Incorporation de l'imperfection des tests ([Cameron et Baldock, 1988a](https://www.sciencedirect.com/science/article/pii/S0167587797000810))
-    -   Incorporation de structure des populations testées ([Cameron et Baldock, 1988b](https://www.sciencedirect.com/science/article/pii/S0167587797000731))
--   Evolution vers la détermination de la sensibilité des systèmes de surveillance et de la probabilité d'absence d'infection si elle n'a pas été détectée
-    -   Méthode **scenario tree** ([Martin et al. 2007](https://www.sciencedirect.com/science/article/pii/S0167587706002091))
-
-## La méthode scenario tree
-
-::: columns
-::: {.column width="60%"}
--   Méthode de référence
--   Simulations stochastiques :
-    -   Structure de la population, stratifiée selon hypothèses sur facteurs de risque d'infection
-    -   Procédures de tests
-    -   Hypothèses sur caractéristiques des tests
-    -   *design prevalence*
--   Permet d'estimer la probabilité d'avoir obtenu des résultats de tests négatifs uniquement, si les hypothèses du modèles étaient vraies
-:::
-
-::: {.column width="40%"}
-![](figs/scenario_tree.png){align="right"}
-:::
-:::
-
 ## Le projet STOC free
 
 -   Objectif du projet :
@@ -424,18 +379,7 @@ $$
 ![](https://media.giphy.com/media/zm7DeNQ8IO5btQTLOc/giphy.gif){.r-stretch}
 :::
 
-## Les boiteries des bovins comme modèle
-
--   Impact sur les *5 libertés* utilisées pour la définition *historique* du bien-être
-    -   **Absence de douleur, de lésions et de maladie** : maladie définie par altération de la démarche due à douleur
-    -   **Absence de faim, de soif et de malnutrition** : altération de la capacité à se déplacer pour aller se nourrir
-    -   **Absence de peur et de détresse** : impact sur les interactions sociales, notamment comportements agonistiques
-    -   **Liberté d'expression d'un comportement normal de l'espèce** : difficultés à se déplacer, se lever, se coucher, exprimer les comportements de chaleurs
-    -   **Absence de stress physique et/ou thermique** : confort de couchage comme facteur de risque de boiterie
--   Prévalence des boiteries d'environ 20% [(Thomsen et al., 2023)](https://www.sciencedirect.com/science/article/pii/S1090023323000266){style="font-size: 85%;"}
-    -   Sous-détection par les éleveurs [(Cutler et al., 2017)](https://www.sciencedirect.com/science/article/pii/S0022030217309025)
-
-## Capteurs pour l'étude du comportements des bovins
+## Capteurs pour l'étude du comportement des bovins
 
 -   Capteurs de plus en plus utilisés en élevage $\rightarrow$ élevage de précision
 
@@ -512,5 +456,40 @@ Figure par Lucile Riaboff, tirée de [Riaboff et al., 2022](https://www.scienced
 ![](https://media.giphy.com/media/73bkcBgE0FCQpO5bpp/giphy.gif)
 :::
 :::
+
+# Bilan et perspectives {background="#43464B" background-image="figs/normandes.jpg" style="margin-top: 200px; font-size: 1.5em; text-align: center;"}
+
+## Bilan
+
+- Parcours en recherche qui m'a permis d'explorer différentes facettes de l'épidémiologie des maladies des bovins
+    - maladies endémiques, émergentes, absentes : différents enjeux, différentes questions
+
+- Evolution des méthodes utilisables et utilisées pour répondre à ces questions
+    - mobilisation/découverte de différentes méthodes pour différentes question
+    - élargissement de l’éventail des méthodes disponibles avec le développement des méthodes d'apprentissage automatique
+
+## Perspectives : enjeux autour du changement climatique
+
+- Prévenir : 
+    - accompagner l'évolution des systèmes (transition agro-écologique)
+    - améliorer l'efficience $\rightarrow$ prévenir les maladies, optimiser la longévité des bovins
+- S'adapter :
+    - stress thermique $\rightarrow$ évaluer les conséquences sur la santé et le bien-être (Projet WAIT4)
+    - émergences $\rightarrow$ détecter précocement
+
+## Perspectives : évolution des méthodes
+
+- Nombreuses questions posées par les développements méthodologiques récents
+
+- Prédire ou comprendre ?
+    - Pour détecter, il suffit de prédire la présence du phénomène d'intérêt à partir de données
+    - Pour prévenir, il faut agir sur les causes $\rightarrow$ comment incorporer la notion de causalité dans les manières de collecter/analyser les données ?
+
+
+- Combiner simulation et inférence
+    - Pour maladies endémiques : possible d'apprendre des données, à partir d'occurrences de cas
+    - Pour maladies rares ou absentes : nécessité de s'appuyer sur des hypothèses pour évaluer des systèmes de détection
+
+
 
 # Merci pour votre attention ! {background="#43464B" background-image="figs/normandes.jpg" style="margin-top: 200px; font-size: 1.5em; text-align: center;"}
