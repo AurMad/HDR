@@ -463,15 +463,15 @@ Aurélien Madouasse
 <div style="font-size: 85%;">
 <table>
 <colgroup>
-<col style="width: 18%">
-<col style="width: 18%">
-<col style="width: 45%">
-<col style="width: 18%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 39%">
+<col style="width: 20%">
 </colgroup>
 <thead>
 <tr class="header">
 <th>Type de maladie/entité</th>
-<th>Type de question</th>
+<th>Enjeux</th>
 <th>Caractéristiques et difficultés méthodologiques</th>
 <th>Partie de l’exposé</th>
 </tr>
@@ -731,7 +731,7 @@ Aurélien Madouasse
 <ul>
 <li>Si la maladie est détectée chez &gt; 0 animal / unité, elle est présente ; sinon quelle probabilité que la maladie soit présente mais n’ait pas été détectée ?</li>
 <li>Impossibilité d’évaluer la probabilité que quelque chose n’existe pas <span class="math inline">\(\rightarrow\)</span> pas réfutable<sup>1</sup></li>
-<li>Nécessité de poser la question en termes de <em>Si l’infection était présente à la prévalence</em> x<em>, quelle serait la probabilité que le système de surveillance la détecte ?</em></li>
+<li>Nécessité de poser la question en termes de : <em>Si l’infection était présente à la prévalence</em> x<em>, quelle serait la probabilité que le système de surveillance la détecte ?</em></li>
 </ul></li>
 </ul>
 <aside><ol class="aside-footnotes"><li id="fn1"><p>Question similaire à celle de l’existence de <a href="https://en.wikipedia.org/wiki/Falsifiability">cygnes noirs</a> ou de <a href="https://en.wikipedia.org/wiki/Russell%27s_teapot">théières célestes</a></p></li></ol></aside></section>
@@ -777,9 +777,9 @@ Aurélien Madouasse
 <li>Modèle de Markov caché <span class="math inline">\(\rightarrow\)</span> Hidden Markov Modèle (HMM) en anglais</li>
 <li>Hypothèses du modèle sur la variable d’intérêt (infection / absence d’infection) :
 <ul>
-<li>Discrète : <span class="math inline">\(k\)</span> états</li>
-<li>Latente : état vrai mesuré de façon imparfaite <span class="math inline">\(\rightarrow\)</span> tests avec sensibilité et spécificité &lt; 1</li>
-<li>Temps discret avec dynamique Markovienne : état latent au temps <span class="math inline">\(t\)</span> ne dépend que de l’état au temps <span class="math inline">\(t-1\)</span>.</li>
+<li>Discrète : <span class="math inline">\(K\)</span> états</li>
+<li>Latente : état vrai mesuré de façon imparfaite</li>
+<li>Temps discret avec dynamique Markovienne</li>
 </ul></li>
 <li>Pas de temps mensuel</li>
 <li>Prédiction de probabilité pour un élevage d’être positif (infecté/séropositif) au dernier pas de temps</li>
@@ -1013,7 +1013,7 @@ p(T_t) = \begin{cases}
 </ul></li>
 <li>Evolution des méthodes utilisables et utilisées pour répondre à ces questions
 <ul>
-<li>mobilisation/découverte de différentes méthodes pour différentes question</li>
+<li>mobilisation/découverte de différentes méthodes pour différentes questions</li>
 <li>élargissement de l’éventail des méthodes disponibles avec le développement des méthodes d’apprentissage automatique</li>
 </ul></li>
 </ul>
@@ -1024,11 +1024,11 @@ p(T_t) = \begin{cases}
 <li>Prévenir :
 <ul>
 <li>accompagner l’évolution des systèmes (transition agro-écologique)</li>
-<li>améliorer l’efficience <span class="math inline">\(\rightarrow\)</span> prévenir les maladies, optimiser la longévité des bovins</li>
+<li>améliorer l’efficience <span class="math inline">\(\rightarrow\)</span> prévenir les maladies, optimiser la longévité des bovins (Projet Alonge)</li>
 </ul></li>
 <li>S’adapter :
 <ul>
-<li>stress thermique <span class="math inline">\(\rightarrow\)</span> évaluer les conséquences sur la santé et le bien-être (Projet WAIT4)</li>
+<li>stress thermique <span class="math inline">\(\rightarrow\)</span> évaluer les conséquences sur la santé et le bien-être (Projets WAIT4, Dynam’Heat)</li>
 <li>émergences <span class="math inline">\(\rightarrow\)</span> détecter précocement</li>
 </ul></li>
 </ul>
@@ -1036,16 +1036,17 @@ p(T_t) = \begin{cases}
 <section id="perspectives-évolution-des-méthodes" class="slide level2">
 <h2>Perspectives : évolution des méthodes</h2>
 <ul>
-<li><p>Nombreuses questions posées par les développements méthodologiques récents</p></li>
+<li><p>Nombreuses questions posées par les développements technologiques (capteurs) et méthodologiques récents</p></li>
 <li><p>Prédire ou comprendre ?</p>
 <ul>
 <li>Pour détecter, il suffit de prédire la présence du phénomène d’intérêt à partir de données</li>
 <li>Pour prévenir, il faut agir sur les causes <span class="math inline">\(\rightarrow\)</span> comment incorporer la notion de causalité dans les manières de collecter/analyser les données ?</li>
 </ul></li>
-<li><p>Combiner simulation et inférence</p>
+<li><p>Simulation ou inférence ?</p>
 <ul>
 <li>Pour maladies endémiques : possible d’apprendre des données, à partir d’occurrences de cas</li>
 <li>Pour maladies rares ou absentes : nécessité de s’appuyer sur des hypothèses pour évaluer des systèmes de détection</li>
+<li>Intérêt de combiner simulation et inférence pour la détection de maladies émergentes ?</li>
 </ul></li>
 </ul>
 </section></section>

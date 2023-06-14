@@ -49,7 +49,7 @@ editor: visual
     -   Coordination du volet français d'une étude européenne multicentrique sur les facteurs de risque de pancytopénie néonatale bovine
     -   Évaluation d'indicateurs et de méthodes pour la détection précoce de maladies vectorielles émergentes
 -   Maître de conférences en zootechnie bovine / épidémiologie à Oniris depuis 2012.
-    - Affiliation à l'UMR BIOEPAR pour activités de recherche.
+    -   Affiliation à l'UMR BIOEPAR pour activités de recherche.
 
 ## Compétences développées
 
@@ -103,8 +103,8 @@ editor: visual
 ## Plan de la présentation
 
 ::: {style="font-size: 85%;"}
-| Type de maladie/entité | Type de question             | Caractéristiques et difficultés méthodologiques                                                                                        | Partie de l'exposé                                      |
-|-------------|-------------|---------------------------------|-------------|
+| Type de maladie/entité | Enjeux                       | Caractéristiques et difficultés méthodologiques                                                                                        | Partie de l'exposé                                      |
+|---------------|---------------|-----------------------------|---------------|
 | Maladie émergente      | Détecter précocement         | Détection de phénomènes parfois inconnus ; évènements rares ; fausses alertes ; données : hétérogènes, longitudinales, de grand volume | **Surveillance syndromique**                            |
 | Maladie absente        | Prouver l'absence            | Quantifier la probabilité d'un évènement absent ; inférence impossible ou difficile ; tests imparfaits                                 | **Modèle de Markov caché**                              |
 | Bien-être animal       | Evaluer l'impact de maladies | Phénomène multifactoriel ; prédiction de comportements à partir de capteurs                                                            | **Capteurs et méthodes pour l'évaluation du bien-être** |
@@ -126,8 +126,8 @@ editor: visual
 -   Symptômes : fièvre, troubles respiratoires, ptyalisme, œdème de la face, cyanose de la langue
 -   Initialement présente en Afrique et en Europe du sud
 -   Émergences :
-    - Allemagne, Belgique et Pays-Bas en 2006
-    - France en 2007
+    -   Allemagne, Belgique et Pays-Bas en 2006
+    -   France en 2007
 
 ## La surveillance syndromique pour la détection d'émergences
 
@@ -273,7 +273,7 @@ $$Y_{ij} = \sum_{k=1}^{8}I_k \left[ (\beta_k + \nu_k^j) \frac{d - \tau_k}{\tau_{
 -   Particularité du problème :
     -   Si la maladie est détectée chez \> 0 animal / unité, elle est présente ; sinon quelle probabilité que la maladie soit présente mais n'ait pas été détectée ?
     -   Impossibilité d'évaluer la probabilité que quelque chose n'existe pas $\rightarrow$ pas réfutable[^1]
-    -   Nécessité de poser la question en termes de *Si l'infection était présente à la prévalence* x*, quelle serait la probabilité que le système de surveillance la détecte ?*
+    -   Nécessité de poser la question en termes de : *Si l'infection était présente à la prévalence* x*, quelle serait la probabilité que le système de surveillance la détecte ?*
 
 [^1]: Question similaire à celle de l'existence de [cygnes noirs](https://en.wikipedia.org/wiki/Falsifiability) ou de [théières célestes](https://en.wikipedia.org/wiki/Russell%27s_teapot)
 
@@ -304,9 +304,9 @@ $$Y_{ij} = \sum_{k=1}^{8}I_k \left[ (\beta_k + \nu_k^j) \frac{d - \tau_k}{\tau_{
 
 -   Modèle de Markov caché $\rightarrow$ Hidden Markov Modèle (HMM) en anglais
 -   Hypothèses du modèle sur la variable d'intérêt (infection / absence d'infection) :
-    -   Discrète : $k$ états
-    -   Latente : état vrai mesuré de façon imparfaite $\rightarrow$ tests avec sensibilité et spécificité \< 1
-    -   Temps discret avec dynamique Markovienne : état latent au temps $t$ ne dépend que de l'état au temps $t-1$.
+    -   Discrète : $K$ états
+    -   Latente : état vrai mesuré de façon imparfaite
+    -   Temps discret avec dynamique Markovienne
 -   Pas de temps mensuel
 -   Prédiction de probabilité pour un élevage d'être positif (infecté/séropositif) au dernier pas de temps
 
@@ -461,35 +461,34 @@ Figure par Lucile Riaboff, tirée de [Riaboff et al., 2022](https://www.scienced
 
 ## Bilan
 
-- Parcours en recherche qui m'a permis d'explorer différentes facettes de l'épidémiologie des maladies des bovins
-    - maladies endémiques, émergentes, absentes : différents enjeux, différentes questions
-
-- Evolution des méthodes utilisables et utilisées pour répondre à ces questions
-    - mobilisation/découverte de différentes méthodes pour différentes question
-    - élargissement de l’éventail des méthodes disponibles avec le développement des méthodes d'apprentissage automatique
+-   Parcours en recherche qui m'a permis d'explorer différentes facettes de l'épidémiologie des maladies des bovins
+    -   maladies endémiques, émergentes, absentes : différents enjeux, différentes questions
+-   Evolution des méthodes utilisables et utilisées pour répondre à ces questions
+    -   mobilisation/découverte de différentes méthodes pour différentes questions
+    -   élargissement de l'éventail des méthodes disponibles avec le développement des méthodes d'apprentissage automatique
 
 ## Perspectives : enjeux autour du changement climatique
 
-- Prévenir : 
-    - accompagner l'évolution des systèmes (transition agro-écologique)
-    - améliorer l'efficience $\rightarrow$ prévenir les maladies, optimiser la longévité des bovins
-- S'adapter :
-    - stress thermique $\rightarrow$ évaluer les conséquences sur la santé et le bien-être (Projet WAIT4)
-    - émergences $\rightarrow$ détecter précocement
+-   Prévenir :
+    -   accompagner l'évolution des systèmes (transition agro-écologique)
+    -   améliorer l'efficience $\rightarrow$ prévenir les maladies, optimiser la longévité des bovins (Projet Alonge)
+-   S'adapter :
+    -   stress thermique $\rightarrow$ évaluer les conséquences sur la santé et le bien-être (Projets WAIT4, Dynam'Heat)
+    -   émergences $\rightarrow$ détecter précocement
 
 ## Perspectives : évolution des méthodes
 
-- Nombreuses questions posées par les développements méthodologiques récents
+-   Nombreuses questions posées par les développements technologiques (capteurs) et méthodologiques récents
 
-- Prédire ou comprendre ?
-    - Pour détecter, il suffit de prédire la présence du phénomène d'intérêt à partir de données
-    - Pour prévenir, il faut agir sur les causes $\rightarrow$ comment incorporer la notion de causalité dans les manières de collecter/analyser les données ?
+-   Prédire ou comprendre ?
 
+    -   Pour détecter, il suffit de prédire la présence du phénomène d'intérêt à partir de données
+    -   Pour prévenir, il faut agir sur les causes $\rightarrow$ comment incorporer la notion de causalité dans les manières de collecter/analyser les données ?
 
-- Combiner simulation et inférence
-    - Pour maladies endémiques : possible d'apprendre des données, à partir d'occurrences de cas
-    - Pour maladies rares ou absentes : nécessité de s'appuyer sur des hypothèses pour évaluer des systèmes de détection
+-   Simulation ou inférence ?
 
-
+    -   Pour maladies endémiques : possible d'apprendre des données, à partir d'occurrences de cas
+    -   Pour maladies rares ou absentes : nécessité de s'appuyer sur des hypothèses pour évaluer des systèmes de détection
+    - Intérêt de combiner simulation et inférence pour la détection de maladies émergentes ?
 
 # Merci pour votre attention ! {background="#43464B" background-image="figs/normandes.jpg" style="margin-top: 200px; font-size: 1.5em; text-align: center;"}
